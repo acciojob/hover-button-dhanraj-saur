@@ -3,13 +3,13 @@
     background-color: black;
     border-radius: 5px;
     color: white;
-	
+	all:none;
 }
 #btn:hover{
     background-color: yellow;
     color: black;
     border-radius: 30px;
-	border:0px none rgb(255,255,255)
+	border:none;
 }
 
 /* Your CSS Code here. */
